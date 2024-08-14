@@ -1,11 +1,11 @@
 <h1 align="center">  Hi, Visitor! 👋 Welcome to my GitHub Profile!</h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=000000&center=true&repeat=true&width=800&lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" alt="Typing SVG" /></a></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=423189&center=true&repeat=true&width=800&lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" alt="Typing SVG" /></a></a></h3>
 
 - 🔭 I work with JavaScript and VueJS
 - ⚡ I am always looking ahead and trying to be better than I am today.
 <h3 align="left">📫 Get in touch with me:</h3>
-<p align="left" dir="auto"><a href="https://t.me/RezeDi" rel="nofollow noopener noreferrer" target="_blank"><img src="https://github.com/dinieva/RezedaD/raw/main/telegram.svg" alt="Telegram" height="20" style="max-width: 100%;"></a> <a href="mailto:dinievarezeda@mail.ru" target="_blank" rel ="nofollow noopener noreferrer"><img src="https://github.com/dinieva/RezedaD/raw/main/mail.svg" alt="dinievarezeda@mail.ru" height="20" width="20" style="max-width: 100%"/></a> <a href="https://discord.gg/1047584923034337390" target="_blank" rel ="nofollow noopener noreferrer "><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1047584923034337390" height="20"style="max-width: 100%;"/></a>
+<p align="left" dir="auto"><a href="https://t.me/RezeDi" rel="nofollow noopener noreferrer" target="_blank"><img src="https://github.com/dinieva/dinieva/raw/main/telegram.svg" alt="Telegram" height="20" style="max-width: 100%;"></a> <a href="mailto:dinievarezeda@mail.ru" target="_blank" rel ="nofollow noopener noreferrer"><img src="https://github.com/dinieva/dinieva/raw/main/mail.svg" alt="dinievarezeda@mail.ru" height="20" width="20" style="max-width: 100%"/></a> <a href="https://discord.gg/1047584923034337390" target="_blank" rel ="nofollow noopener noreferrer "><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1047584923034337390" height="20"style="max-width: 100%;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
