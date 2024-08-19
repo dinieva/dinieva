@@ -1,10 +1,8 @@
 <h1 align="center">  Hi, Visitor! 👋 Welcome to my GitHub Profile!</h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=423189&center=true&repeat=true&width=800&lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" alt="Typing SVG" /></a></a></h3>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?9&center=true&&width=650&lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" />
+  <img src="https://readme-typing-svg.demolab.com/9&center=true&?&width=650&lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" />
 </picture>
 
 - 🔭 I work with JavaScript and VueJS
