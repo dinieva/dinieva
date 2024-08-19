@@ -2,6 +2,11 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=423189&center=true&repeat=true&width=800&lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" alt="Typing SVG" /></a></a></h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻" />
+</picture>
+
 - 🔭 I work with JavaScript and VueJS
 - ⚡ I am always looking ahead and trying to be better than I am today.
 <h3 align="left">📫 Get in touch with me:</h3>
