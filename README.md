@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?size=24&pause=2500&center=true&width=700&lines=My+name+is+Rezeda.+I+am+frontend+developer+👨‍💻&color=FF1493" />
 </picture>
 
-- 🔭 I work with JavaScript and VueJS
+- 🔭 I work with JavaScript, Typescript, Vue3 and Angular.
 - ⚡ I am always looking ahead and trying to be better than I am today.
 <h3 align="left">📫 Get in touch with me:</h3>
 <p align="left" dir="auto"><a href="https://t.me/RezeDi" rel="nofollow noopener noreferrer" target="_blank"><img src="https://github.com/dinieva/dinieva/raw/main/telegram.svg" alt="Telegram" height="20" style="max-width: 100%;"></a> <a href="mailto:dinievarezeda@mail.ru" target="_blank" rel ="nofollow noopener noreferrer"><img src="https://github.com/dinieva/dinieva/raw/main/mail.svg" alt="dinievarezeda@mail.ru" height="20" width="20" style="max-width: 100%"/></a> <a href="https://discord.gg/1047584923034337390" target="_blank" rel ="nofollow noopener noreferrer "><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1047584923034337390" height="20"style="max-width: 100%;"/></a>
